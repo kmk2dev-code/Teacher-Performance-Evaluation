@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Local editor / IDE
+.vscode/
+.idea/
+
+# Local runtime / secrets
+.env
+.env.*
+*.key
+*.pem
+*credentials*.json
+*secret*.json
+
+# Local backups / exported user data
+backup*.json
+backups/
+data/
+
+# Temporary files
+*.tmp
+*.log
